@@ -1,6 +1,6 @@
 # election-2018-forecast
 
-November 6, 2018
+November 5, 2018
 
 I predict that the Republicans will lose the House, but keep the Senate (narrowly). I predict they will gain 23 seats in the House based on how people are betting in the market (PredictIt - a NZ based political predictions market).
 
